@@ -1,0 +1,5 @@
+﻿  Sort.c
+  test.c
+  正在生成代码...
+D:\code\Sort\Sort\Sort.c(169): warning C4715: “GetMidIndex”: 不是所有的控件路径都返回值
+  Sort.vcxproj -> D:\code\Sort\x64\Debug\Sort.exe

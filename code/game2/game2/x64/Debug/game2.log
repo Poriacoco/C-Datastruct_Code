@@ -1,0 +1,5 @@
+﻿  game.c
+D:\code\game2\game2\game.c(84,18): warning C4013: “sumbow”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  game2.vcxproj -> D:\code\game2\x64\Debug\game2.exe

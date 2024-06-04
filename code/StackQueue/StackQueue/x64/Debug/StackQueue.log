@@ -1,0 +1,5 @@
+﻿  Test.c
+D:\code\StackQueue\StackQueue\Test.c(56,1): error C2011: “QueueNode”:“struct”类型重定义
+D:\code\StackQueue\StackQueue\Queue.h(9,16): message : 参见“QueueNode”的声明
+D:\code\StackQueue\StackQueue\Test.c(62,1): error C2011: “Queue”:“struct”类型重定义
+D:\code\StackQueue\StackQueue\Queue.h(15,16): message : 参见“Queue”的声明

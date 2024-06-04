@@ -1,0 +1,12 @@
+﻿  BinaryTree.c
+  test.c
+D:\code\BinaryTree\BinaryTree\test.c(74,13): warning C4013: “Max”未定义；假设外部返回 int
+D:\code\BinaryTree\BinaryTree\test.c(93,20): warning C4047: “函数”:“QDataType”与“BTNode *”的间接级别不同
+D:\code\BinaryTree\BinaryTree\test.c(93,16): warning C4024: “QueuePush”: 形参和实参 2 的类型不同
+D:\code\BinaryTree\BinaryTree\test.c(96,11): warning C4047: “初始化”:“BTNode *”与“QDataType”的间接级别不同
+  正在生成代码...
+test.obj : error LNK2019: 无法解析的外部符号 QueuePush，函数 BinaryTreeLeverOrder 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 QueueFront，函数 BinaryTreeLeverOrder 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 QueueEmpty，函数 BinaryTreeLeverOrder 中引用了该符号
+test.obj : error LNK2019: 无法解析的外部符号 Max，函数 TreeDepth 中引用了该符号
+D:\code\BinaryTree\x64\Debug\BinaryTree.exe : fatal error LNK1120: 4 个无法解析的外部命令
